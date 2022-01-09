@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "minestranding:blocks/the_beach_sand"
+	}
+}
